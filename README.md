@@ -1,4 +1,4 @@
-# Utilisation d'une Forêt Aléatoire pour la Classification de Cancer du Côlon 
+# Arbre de décision et Forêt Aléatoire pour la Classification 
 
 Ce projet vise à utiliser les algorithmes d'arbre de décision et de Forêt Aléatoire pour la classification de données médicales sur les cancers du côlon.     
 Les méthodes explorées dans ce projet seront  comparées en utilisant la métrique d'accuracy et les matrices de confusion.
