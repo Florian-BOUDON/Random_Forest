@@ -1,6 +1,6 @@
 # Arbre de décision et forêt aléatoire pour la classification 
 
-Ce projet vise à utiliser les algorithmes d'arbre de décisions et de forêt aléatoire pour la classification de données médicales sur les cancers du côlon.     
+Ce projet vise à utiliser les algorithmes d'arbre de décision et de forêt aléatoire pour la classification de données médicales sur les cancers du côlon.     
 Les méthodes explorées dans ce projet seront comparées en utilisant la métrique d'accuracy et les matrices de confusion.
 
 ## Description du projet
@@ -39,6 +39,6 @@ y compris le chargement des données, la création des modèles et l'évaluation
 Le fichier README.md est le présent document, fournissant une description détaillée du projet.
 
 ### Conclusion
-Ce projet montre comment utiliser l'algorithme de forêt aléatoire pour la classification des cancers du côlon, en le comparant à l'arbre de décisions.     
+Ce projet montre comment utiliser l'algorithme de forêt aléatoire pour la classification des cancers du côlon, en le comparant à l'arbre de décision.     
 En utilisant l'accuracy et les matrices de confusion, nous évaluerons la qualité des prédictions de chaque modèle.       
 La réussite de ce projet nous permettra de choisir le meilleur modèle pour la prédiction des cancers du côlon dans les données médicales fournies.
